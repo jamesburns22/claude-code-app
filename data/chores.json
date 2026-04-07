@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Learn Claude Code",
+    "description": "test",
+    "color": "#ef4444",
+    "recurrence": {
+      "type": "once",
+      "startDate": "2026-04-07",
+      "endDate": null
+    },
+    "assignment": {
+      "type": "fixed",
+      "memberId": "e5871841-88a1-41b6-9b4a-7adcd779dbf2"
+    },
+    "id": "0077880f-86f2-4bd7-99f6-d22acc56d615"
+  },
+  {
+    "title": "Clean Kitchen",
+    "description": "",
+    "color": "#ec4899",
+    "recurrence": {
+      "type": "weekly",
+      "startDate": "2026-04-07",
+      "endDate": null,
+      "daysOfWeek": []
+    },
+    "assignment": {
+      "type": "rotate",
+      "memberIds": [
+        "e5871841-88a1-41b6-9b4a-7adcd779dbf2",
+        "804d0b79-ab71-4f04-a295-b04d072449eb",
+        "c456cab8-21f0-4b79-9719-a1bde61d58e4"
+      ]
+    },
+    "id": "87bbe98d-3258-41c7-a69b-0f9b359ee224"
+  },
+  {
+    "title": "Clean Fridge",
+    "description": "",
+    "color": "#6366f1",
+    "recurrence": {
+      "type": "once",
+      "startDate": "2026-04-07",
+      "endDate": null
+    },
+    "assignment": {
+      "type": "fixed",
+      "memberId": "804d0b79-ab71-4f04-a295-b04d072449eb"
+    },
+    "id": "69fe5a9c-42e0-4293-af9c-ec1b5e543271"
+  }
+]
